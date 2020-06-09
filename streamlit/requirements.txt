@@ -1,0 +1,5 @@
+streamlit==0.57.3
+scikit-learn==0.22.1
+numpy
+pickleshare==0.7.5
+xgboost==0.90
